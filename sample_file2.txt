@@ -3,3 +3,5 @@ local change 1 (file2)
 change 2 after push 1
 
 change 3
+
+change 4 in new branch
